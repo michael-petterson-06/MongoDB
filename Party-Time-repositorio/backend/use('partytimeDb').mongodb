@@ -1,0 +1,5 @@
+use('partytimeDb')
+db.users.find({})
+
+use('partytimeDb')
+db.parties.find({})
